@@ -1,0 +1,60 @@
+.xuanze{
+    display: flex;
+}
+.wenzizi{
+flex: 2;
+}
+.soututu{
+flex: 1;
+}
+.soututu img{
+    margin-left: 70px;
+	width: 24px;
+	height: 24px;
+	color: rgba(128, 128, 128, 1);
+}
+.wenzizi span{
+    margin: 0 10px;
+    font-weight: bold;
+}
+.xiahuaxian{
+    padding-bottom: 5px;
+    color: orange;
+    text-decoration: underline;
+}
+.tuijianlan{
+    margin-top: 20px;
+}
+.tuijianlan div{
+    display: inline-block;
+    text-align: center;
+    border: 1px ;
+    width: 23vw;
+	color: rgba(128, 128, 128, 1);
+	background-color: rgba(210, 210, 210, 0.2);
+	border-radius: 4px;
+	font-size: 14px;
+}
+.kuang{
+  padding-top: 1.49vh;
+   width: 44.8vw;
+   margin: 0 9px 2px 9px;
+}
+.kuang>img{
+   width: 44.8vw;
+   height: 14vh;
+}
+.tu_11{
+    margin-left: 15px;
+    width: 92%;
+    height: 194px;    
+}
+.list_4{
+    margin-top: 1.49vh;
+ }
+ .list_3{
+     margin-bottom: 50px;
+ }
+.list_one_1{
+    display: flex;
+ }

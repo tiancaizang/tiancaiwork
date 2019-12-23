@@ -1,0 +1,151 @@
+.diyiban img{
+	width: 66px;
+	height: 66px;
+    border-radius: 34px;
+}
+.diyiban{
+    margin-top: 20px;
+   text-align: center;
+}
+.tutu10{
+    margin-bottom: 20px;
+}
+.xiaohenggang{
+    margin-top: 20px;
+    height: 0.4vh;
+	width: 100vw;
+	color: rgba(80, 80, 80, 1);
+	background-color: rgba(153, 153, 153, 0.2);
+}
+.kaivip{
+    margin-top: 20px;
+    display: flex;
+}
+.zuomian{
+    flex: 1;
+}
+.youmian{
+    flex: 1;
+}
+.zuomian img{
+    margin: 0 10px 0 10px;
+	width: 20px;
+	height: 20px;
+}
+.youmian img{
+	width: 24px;
+	height: 24px;
+	margin-left: 130px;
+	color: rgba(153, 153, 153, 1);
+}
+.xiaohenggang1{
+    margin-top: 20px;
+	width: 100vw;
+	height: 12px;
+	color: rgba(80, 80, 80, 1);
+    background-color: rgba(246, 247, 249, 1);
+}
+.lishijilu{
+    width: 100%;
+    display: flex;
+    white-space: nowrap;
+    overflow-y: auto;
+    text-align: left;
+ }
+ .si{
+    display: inline-block;
+    padding: 5px
+ }
+ .lishijilu::-webkit-scrollbar{
+    display : none;
+ }
+ .neirongkuang>img{
+    width: 36vw;
+    height: 11vh;
+ }
+ .neirongkuang{
+    margin: 10px;
+    text-align: center;
+ }
+ .jiluzi{
+     margin-left: 20px;
+    font-weight: bold;
+    font-size: 1.12rem;
+    width: 0%;
+    height: 20vh;
+ }
+ .zijuli{
+     margin-top: 10px;
+ }
+ .list{
+    margin-top: 1.49vh;
+ }
+ .xiaozi{
+    font-size:0.88rem ;
+    font-weight: bold;
+ }
+ .xiaohenggang2{
+    margin-top: 20px;
+	width: 100vw;
+	height: 0.4vh;
+	color: rgba(80, 80, 80, 1);
+	background-color: rgba(153, 153, 153, 0.2);
+}
+.kandan{
+    margin-top: 25px;
+    display: flex;
+}
+.youmianmian{
+    flex: 1;
+}
+.zuomianmian{
+    flex: 1;
+    margin-left: 20px;
+    font-weight: bold;
+    font-size: 1.12rem;
+}
+.youmianmian img{
+    margin-left: 130px;
+	width: 24px;
+	height: 24px;
+	color: rgba(153, 153, 153, 1);
+}
+.xiaohengganggang3{
+    margin-top: 20px;
+	width: 100vw;
+	height: 12px;
+	color: rgba(80, 80, 80, 1);
+	background-color: rgba(246, 247, 249, 1);
+}
+.guankanlishi{
+    margin-top: 30px;
+    display: flex;
+}
+.youmianmianmian{
+    flex: 1;
+}
+.zuomianmianmian{
+    flex: 1;
+    margin-left: 20px;
+    font-weight: bold;
+    font-size: 1.12rem;
+}
+.zuihouyige{
+    margin-left: 130px;
+	width: 24px;
+	height: 24px;
+	color: rgba(153, 153, 153, 1);
+}
+.xiaohengganggang4{
+    margin-top: 30px;
+	width: 100vw;
+	height: 12px;
+	color: rgba(80, 80, 80, 1);
+	background-color: rgba(246, 247, 249, 1);
+}
+.image_69X1{
+	width: 375px;
+	height: 210px;
+	left: 0px;
+	top: 122px;
+}
