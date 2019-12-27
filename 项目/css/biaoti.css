@@ -1,0 +1,150 @@
+.navbar-brand{
+    padding: 6px;
+    padding-right: 30px;
+}
+.navbar-nav li{
+    margin-left: 0.2em;
+}
+.sr-only{
+    background-color: red;
+}
+.navbar-nav a{
+ font-size: 14px;
+ font-weight: bold;
+}
+.navbar-default{
+    height: 4.2em;
+    background-color: white;
+}
+.biaoti{
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+}
+.biaoti i{
+    font-size: 0.625em;
+    background-color: yellow;
+    height: 0.2em;
+    width: 20%;
+    display: inline-block;
+}
+.biaoti span{
+    vertical-align: middle;
+    font-size: 25px;
+    
+}
+.beijing{
+    background-color: rgb(176 ,176 ,176);
+    width: 100%;
+    line-height: 800%;
+    margin: 0 auto;
+    height: 132px;
+}
+.yasuo{
+    display: block;
+    position: relative;width: 100%;
+    height: 100%;
+}
+.yasuo>img:first-child{
+	position: absolute;
+	transition: all .35s;
+    opacity: 1;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 0;
+
+}
+.j_ourservice_list li{
+    list-style: none;
+}
+.yasuo img{
+	height: 100%;
+	/*position: absolute;*/
+	float: left;
+}
+.title_wrap{overflow: hidden;}
+.padding{
+	padding-bottom: 3em;
+}
+.zuo_tu_text h6 {
+	font-size: 1.875em;
+	font-weight: bold;
+	font-family: arial;
+	padding-top: 0.5em;
+	word-break: break-all;
+}
+.zuo_tu_text p {
+	font-family: "微软雅黑";
+	font-size: 0.9375em;
+	line-height: 1.8em;
+	padding-top: 0.5em;
+	word-break: break-all;
+}
+.zuo_tu_text {
+	transition: all 0.35s;
+	-webkit-transition: all 0.35s;
+	-moz-transition: all 0.35s;
+	-ms-transition: all 0.35s;
+	-o-transition: all 0.35s;
+	width: 34%;
+	float: left;
+	padding-left: 2%;
+	overflow: hidden;
+	color: rgb(176, 176, 176);
+}
+j_contact_us .j_contact_us_list{font-family: arial;}
+.j_contact_us_list {
+	width: 100%;
+	text-align: center;
+	color: #898989;
+	font-size: 1em;
+	line-height: 1.5em;
+	padding-bottom: 5.9375em;
+	font-family: arial;
+	font-weight: lighter;
+	/*padding-bottom: 23.34%;*/
+}
+.j_footer {
+	width: 100%;
+	/*height: 65px;*/
+	height: 4.062em;
+	text-align: center;
+	/*font-size: 1em;*/
+	background-color: #b4b4b4;
+	/*line-height: 65px;*/
+	line-height: 4.062em;
+	border-top: 2px solid #cfdb00;
+	overflow: hidden;
+}
+.j_copyright {
+	font-size: 1.25em;
+	color: white;
+}
+/*@media only screen and (min-width: 960px) and (max-width: 1200px) {
+	.j_content4_list .j_content4_list_img {
+		margin-left: 3%;
+	}
+}*/
+@media only screen and (min-width: 320px) and (max-width: 640px) {
+	.j_footer {
+	height: 2.5em;
+	line-height: 2.5em;
+}
+	.j_copyright {
+    font-size: 0.8em;
+    color: white;
+}
+}
+@media only screen and (min-width: 720px) {
+	.j_copyright {
+    font-size: 1em;
+    color: white;
+}
+}
+@media only screen and (min-width: 768px) {
+	
+}
+@media only screen and (min-width: 960px)  and (max-width: 1040px) {
+	
+}
